@@ -1,0 +1,8 @@
+C:\Users\Shaikh Sameer\Desktop\Pull Project\Demo Prj1\bin\Debug\Demo Prj1.exe.config
+C:\Users\Shaikh Sameer\Desktop\Pull Project\Demo Prj1\bin\Debug\Demo Prj1.exe
+C:\Users\Shaikh Sameer\Desktop\Pull Project\Demo Prj1\bin\Debug\Demo Prj1.pdb
+C:\Users\Shaikh Sameer\Desktop\Pull Project\Demo Prj1\obj\Debug\Demo Prj1.csproj.AssemblyReference.cache
+C:\Users\Shaikh Sameer\Desktop\Pull Project\Demo Prj1\obj\Debug\Demo Prj1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaikh Sameer\Desktop\Pull Project\Demo Prj1\obj\Debug\Demo Prj1.csproj.CoreCompileInputs.cache
+C:\Users\Shaikh Sameer\Desktop\Pull Project\Demo Prj1\obj\Debug\Demo Prj1.exe
+C:\Users\Shaikh Sameer\Desktop\Pull Project\Demo Prj1\obj\Debug\Demo Prj1.pdb
