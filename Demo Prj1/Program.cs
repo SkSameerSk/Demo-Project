@@ -11,7 +11,7 @@ namespace Demo_Prj1
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Wwlcomw to github");
+            Console.WriteLine("Wwlcomw to github"); //to display out 
         }
     }
 }
